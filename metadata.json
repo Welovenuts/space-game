@@ -1,0 +1,6 @@
+{
+  "name": "Solar System Explorer ม.6",
+  "description": "เกม 3D สำรวจอวกาศและเรียนรู้ระบบสุริยะตามหลักสูตร ม.6 พร้อมระบบภารกิจ ยานสำรวจ และแบบทดสอบความรู้ดาราศาสตร์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
